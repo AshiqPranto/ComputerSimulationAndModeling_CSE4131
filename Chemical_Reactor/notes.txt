@@ -1,0 +1,6 @@
+a = 1
+b = 0.5
+rate_constant = 0.05
+steps = 500
+second = 100 second
+time 0 theke 100, 500 ta steps e vag kora lagbe
